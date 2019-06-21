@@ -66,3 +66,6 @@ describe "ruby" do
     end
   end
 end
+#
+#
+def greeting (greet="" , name="")
