@@ -3,7 +3,7 @@ def division(num1, num2)
  return sol
 end
 
-def assign_variable(value)
+def assign_variable(name)
   
 end
 
