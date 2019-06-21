@@ -19,8 +19,8 @@ def return_a_value
 
 end
 
-def last_evaluated_value
-
+def last_evaluated_value (phr="expert")
+return phr
 end
 
 def pizza_party (arg="cheese")
