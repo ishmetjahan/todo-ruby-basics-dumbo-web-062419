@@ -68,4 +68,6 @@ describe "ruby" do
 end
 #
 #
-def greeting (greet="" , name="")
+def greeting (name,greet="Hi there,")
+  return "#{greet} #{name}"
+end
