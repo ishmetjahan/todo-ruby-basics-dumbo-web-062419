@@ -10,7 +10,8 @@ def argue
   
 end
 
-def greeting
+def greeting(name,arg="Hi there,")
+  return "#{arg} #{name}"
 
 end
 
