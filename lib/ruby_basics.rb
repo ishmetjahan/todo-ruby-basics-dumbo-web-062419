@@ -16,8 +16,8 @@ def greeting(name,arg="Hi there,")
 
 end
 
-def return_a_value
-
+def return_a_value(arg="Nice")
+return arg
 end
 
 def last_evaluated_value (phr="expert")
